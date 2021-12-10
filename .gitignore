@@ -1,0 +1,7 @@
+.idea/
+.DS_Store/
+Example/
+.ipynb_checkpoints/
+./model/__pycache__/
+./train/__pycache__/
+./data_pre/__pycache__/
